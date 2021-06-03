@@ -60,3 +60,10 @@ figure {
 .copyright {
    padding-top: 20px;
 }
+.texto-banner {
+    padding: 1%;
+}
+
+.texto-banner h1 p {
+    font-family: 'Roboto', sans-serif;
+}
