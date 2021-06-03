@@ -1,5 +1,3 @@
-.jumbotron{
-   background-color: #0D6EFD; 
-   background-image: url(../img/Fondo-banner.jpg);
-   color: white;
+.texto-banner {
+    padding: 1%;
 }
